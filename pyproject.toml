@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ipaTTS"
+version = "0.0.0"
+description = "TTS for IPA phonetic notation"
+authors = [
+  { name="UsUsStudios", email="ususstudios1@gmail.com" }
+]
+readme = "README.md"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/UsUsStudios/IPATTS"
